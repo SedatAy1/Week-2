@@ -1,7 +1,3 @@
-import org.w3c.dom.css.CSSStyleDeclaration;
-
-import java.util.SortedMap;
-
 public class OgrenciBilgiSistemi {
 
     String adı;
@@ -25,5 +21,4 @@ public class OgrenciBilgiSistemi {
         System.out.println("Hesaplanmış Puan : " + this.hesap);
         System.out.println("----------------");
     }
-
 }
