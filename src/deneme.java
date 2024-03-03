@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AsalSayiBulanProgram {
+public class deneme {
     public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
 
@@ -20,5 +20,4 @@ public class AsalSayiBulanProgram {
         System.out.println(n + " ");
     }
 }
-
 
